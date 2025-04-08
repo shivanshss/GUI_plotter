@@ -34,6 +34,9 @@ Clone the repository and run:
 ```bash
 python GUI_plotter_app.py
 ```
+![image](https://github.com/user-attachments/assets/329e3e8b-1c58-48a8-8f08-487a0918681b)
+
+![image](https://github.com/user-attachments/assets/a97edd83-0eed-4faa-afae-aa0ff1658eed)
 
 ---
 
